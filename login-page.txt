@@ -16,3 +16,31 @@ git branch: Lists local branches or creates a new branch for isolating features 
 git checkout: Switches the context between branches.
 git push: Uploads your local repository changes to a remote repository for collaboration2.
 
+
+
+
+Start: Initialize Repository
+
+Create new file(s)
+
+git add
+
+git commit -m 'message'
+
+git branch feature
+
+git checkout feature
+
+Modify file(s)
+
+git add
+
+git commit -m 'feature commit'
+
+git checkout main
+
+git merge feature
+
+View commit history with git log
+
+END
