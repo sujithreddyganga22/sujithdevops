@@ -4,3 +4,15 @@ Sample Git Code Snippet for Practice
 Description:
 Investigate practical, beginner-level code examples that demonstrate Git commands and workflows for learning version control basic
 
+3.2 Detailed Command Explanations
+Below is a brief explanation of the key commands mentioned:
+
+git init: Initializes a new Git repository in an existing directory. This creates a hidden .git folder that stores all the repository metadata.
+git clone: Downloads a remote repository to your local machine, preserving the full history of changes.
+git status: Reveals the status of files in your working directory, distinguishing between new, modified, and staged files.
+git add: Moves changes from the working directory into the staging area, preparing them for a commit.
+git commit: Records a snapshot of your repository; each commit saves the changes along with a message, author, and timestamp.
+git branch: Lists local branches or creates a new branch for isolating features or fixes.
+git checkout: Switches the context between branches.
+git push: Uploads your local repository changes to a remote repository for collaboration2.
+
