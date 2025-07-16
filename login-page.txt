@@ -1,0 +1,6 @@
+Research Topic:
+Sample Git Code Snippet for Practice
+
+Description:
+Investigate practical, beginner-level code examples that demonstrate Git commands and workflows for learning version control basic
+
